@@ -5,4 +5,5 @@ matplotlib
 scipy
 Flask
 scikit-learn
+pickle
 
